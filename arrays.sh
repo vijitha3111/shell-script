@@ -2,4 +2,4 @@
 
 courses=["DevOps" "Hindi" "Social"]
 
-echo "Vijitha is learning $courses[0]"
+echo "Vijitha is learning ${courses[0]}"
